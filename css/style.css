@@ -2,16 +2,16 @@ table, th, td {
     border: 1px solid white;
     zoom: 2;
 }
-td#t01 {
+td.t01 {
     background: #A2BA5C;
     width: 30px;
     height: 40px;
 }
-td#t02 {
+td.t02 {
     background: #db2b2b;
     width: 48px;
 }
-td#t03 {
+td.t03 {
     background: #376fe7;
     width: 15px;
     height: 10px;
