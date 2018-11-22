@@ -26,7 +26,6 @@ OL>LI {
 OL>LI::before { 
     content: counters(item, ".") " "; 
     counter-increment: item; 
-    list-style-position: outside
 }
 .h1 { 
     display: block;
